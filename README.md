@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm MD Hasibur Rahman
 
-<!--
-**Hasib1560/Hasib1560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Mechanical (Automobile) Engineering  
+🔌 Minor in VLSI & Embedded Systems  
+🚘 EV Builder | Auto Diagnostics | Embedded Systems Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚗 Featured Projects
+
+### ⚡️ Skyline EV – Efficycle Project
+🏁 Built a single-seater EV and led the electrical subteam at a national-level competition (Efficycle 2022).  
+📌 Designed powertrain, integrated ADAS systems, and handled system testing.  
+🔧 Technologies used: Batteries, BLDC Motor, SolidWorks, MATLAB
+
+### 🔍 OBD-II Diagnostics with Arduino *(coming soon)*  
+DIY project simulating an OBD2 car scanner using Arduino, CAN module, and display.
+
+### 🛠️ EV Retrofit Simulator *(coming soon)*  
+MATLAB/Simulink-based model simulating ICE-to-EV conversion with simple control systems.
+
+---
+
+## 🧰 Skills
+
+- **Software & CAD**: SolidWorks, AutoCAD, Fusion 360, Ansys, Proteus, MATLAB/Simulink  
+- **Hardware**: Arduino, OBD-II tools, Oscilloscope, Power electronics  
+- **Languages**: C, Python, Verilog  
+- **Soft Skills**: Leadership, Technical Documentation, Time Management
+
+---
+
+## 📚 Certifications (Highlights)
+- 💻 CSWA Prep – SolidProfessor  
+- 🔋 EV Powertrain Basics – MathWorks  
+- 🏭 Fusion 360 Digital Manufacturing – Coursera  
+- ✅ Lean Six Sigma – LinkedIn Learning
+
+---
+
+📫 **Email:** rahmanhasib405@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/hasib1560](https://linkedin.com/in/hasib1560)
